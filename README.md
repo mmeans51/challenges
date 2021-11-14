@@ -1,4 +1,16 @@
-READ ME PAGE FOR WEEK 1 CHALLENGE
-    tbh not real sure what goes on the is page.
-    theres 1 html and 1 css page.
+
+Horiseon .inc
+
+purpose
+a Media Marketing website
+
+Built with 
+* HTML
+* CSS
+
+Website
+https://mmeans51.github.io/horiseon/
+
+
+
     
